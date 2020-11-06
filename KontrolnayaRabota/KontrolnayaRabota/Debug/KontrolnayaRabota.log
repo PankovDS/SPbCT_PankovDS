@@ -1,0 +1,5 @@
+﻿  KontrolnayaRabota.cpp
+c:\users\панков данила\desktop\программы\kontrolnayarabota\kontrolnayarabota\kontrolnayarabota.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\панков данила\desktop\программы\kontrolnayarabota\kontrolnayarabota\kontrolnayarabota.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\панков данила\desktop\программы\kontrolnayarabota\kontrolnayarabota\kontrolnayarabota.cpp(2): note: использование предварительно скомпилированного заголовка
+  KontrolnayaRabota.vcxproj -> C:\Users\Панков Данила\Desktop\Программы\KontrolnayaRabota\Debug\KontrolnayaRabota.exe
