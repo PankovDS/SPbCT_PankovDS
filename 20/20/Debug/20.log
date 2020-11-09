@@ -1,0 +1,12 @@
+﻿  20.cpp
+c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(36): warning C4273: MathFuncs::MyMathFuncs::Add: несовместимая компоновка dll
+  c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(17): note: см. предыдущее определение "Add"
+c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(41): warning C4273: MathFuncs::MyMathFuncs::Subtract: несовместимая компоновка dll
+  c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(18): note: см. предыдущее определение "Subtract"
+c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(46): warning C4273: MathFuncs::MyMathFuncs::Multiply: несовместимая компоновка dll
+  c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(19): note: см. предыдущее определение "Multiply"
+c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(51): warning C4273: MathFuncs::MyMathFuncs::Divide: несовместимая компоновка dll
+  c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(20): note: см. предыдущее определение "Divide"
+c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(60): warning C4273: MathFuncs::MyMathFuncs::Pow: несовместимая компоновка dll
+  c:\users\панков данила\desktop\программы\20\20\mathlibrary.h(21): note: см. предыдущее определение "Pow"
+  20.vcxproj -> C:\Users\Панков Данила\Desktop\Программы\20\Debug\20.exe
