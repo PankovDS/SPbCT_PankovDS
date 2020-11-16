@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\панков данила\desktop\программы\praktika\praktika\myform2.h(137): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/FORCE"
+MyForm1.obj : warning LNK4006: "void __clrcall Main(cli::array<class System::String ^ >^)" (?Main@@YMXP$01AP$AAVString@System@@@Z) уже определен в MyForm.obj; второе определение пропущено
+MyForm1.obj : warning LNK4006: "void __clrcall Main(cli::array<class System::String ^ >^)" (?Main@@$$FYMXP$01AP$AAVString@System@@@Z) уже определен в MyForm.obj; второе определение пропущено
+MyForm2.obj : warning LNK4006: "void __clrcall Main(cli::array<class System::String ^ >^)" (?Main@@YMXP$01AP$AAVString@System@@@Z) уже определен в MyForm.obj; второе определение пропущено
+MyForm2.obj : warning LNK4006: "void __clrcall Main(cli::array<class System::String ^ >^)" (?Main@@$$FYMXP$01AP$AAVString@System@@@Z) уже определен в MyForm.obj; второе определение пропущено
+C:\Users\Панков Данила\Desktop\Программы\Praktika\Debug\Praktika.exe : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+  Praktika.vcxproj -> C:\Users\Панков Данила\Desktop\Программы\Praktika\Debug\Praktika.exe
